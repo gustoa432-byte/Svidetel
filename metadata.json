@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Witness v2",
+  "description": "Singularity Scanner based on entropy simulation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
